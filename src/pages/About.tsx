@@ -11,8 +11,8 @@ const About: React.FC = () => {
           subtitle="Get to know more about my background and passion for Data Science"
         />
         
-        <div className="flex flex-col md:flex-row items-center justify-center gap-12">
-          <div className="w-auto h-auto shadow-xl">
+        <div className="flex flex-col md:flex-row items-center justify-center gap-10">
+          <div className="w-48 h-48 rounded-full overflow-hidden shadow-xl">
             <img 
               src="/Sowmya Headshot.jpg" 
               alt="Sowmya's Headshot" 
