@@ -12,7 +12,7 @@ const About: React.FC = () => {
         />
         
         <div className="flex flex-col md:flex-row items-center justify-center gap-12">
-          <div className="w-64 h-64 rounded-full overflow-hidden shadow-xl">
+          <div className="w-auto h-auto shadow-xl">
             <img 
               src="/Sowmya Headshot.jpg" 
               alt="Sowmya's Headshot" 
