@@ -19,7 +19,7 @@ const projects: Project[] = [
     id: 1,
     title: "Classification of Plant Seedlings using Deep Learning",
     description: "Machine learning algorithm [Convolutional Neural Network] is used to classify the image. The model thus implemented can be extended to a mobile device or my website as per developers need.",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    image: "/plant_seedlings.jpg",
     techStack: ["Python", "Tensor Flow", "Keras", "Matplotlib"],
     githubUrl: "https://github.com/sowmya1907/Classification-of-Plant-Seedlings-using-Deep-Learning",
     category: ["Machine Learning", "Classification"]
@@ -28,7 +28,7 @@ const projects: Project[] = [
     id: 2,
     title: "Vehicle Plate Recognition ",
     description: "Developed a deep learning-based system for vehicle license plate detection and recognition using a dataset of 1,800 annotated images.",
-    image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    image: "/vehicle_plate.jpg",
     techStack: ["Python", "Computer Vision", "OCR", "YOLO"],
     githubUrl: "https://github.com/sowmya1907/Vehicle-Plate-Recognition",
     category: ["Machine Learning", "Object Detection"]
