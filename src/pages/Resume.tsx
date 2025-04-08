@@ -33,7 +33,7 @@ const Resume: React.FC = () => {
           <div className="max-w-3xl mx-auto">
             <div className="text-center mb-8">
               <h2 className="text-3xl font-bold text-gray-800 dark:text-white mb-2">Sowmya Guduguntla</h2>
-              <p className="text-gray-600 dark:text-gray-300"> Aspiring Data Scientist | Machine Learning & Aritificial Intelligence Enthusiast</p>
+              <p className="text-gray-600 dark:text-gray-300"> Aspiring Data Scientist | Machine Learning & Artificial Intelligence Enthusiast</p>
               <div className="flex justify-center gap-4 mt-2 text-gray-600 dark:text-gray-300 text-sm">
                 <span>Hyderabad, Telangana</span>
                 <span>•</span>
@@ -105,12 +105,17 @@ const Resume: React.FC = () => {
                 
                 <div>
                   <h4 className="font-semibold text-gray-800 dark:text-white mb-2">Data Science, AI & ML</h4>
-                  <p className="text-gray-600 dark:text-gray-400">TensorFlow, Scikit-Learn, PyTorch, Pandas, NumPy</p>
+                  <p className="text-gray-600 dark:text-gray-400">TensorFlow, Scikit-Learn, PyTorch, Pandas, NumPy, Open CV</p>
                 </div>
                 
                 <div>
                   <h4 className="font-semibold text-gray-800 dark:text-white mb-2">Data Visualization</h4>
                   <p className="text-gray-600 dark:text-gray-400">Tableau, Power BI, Matplotlib, Seaborn, Plotly</p>
+                </div>
+
+                <div>
+                  <h4 className="font-semibold text-gray-800 dark:text-white mb-2">Cloud & Tools</h4>
+                  <p className="text-gray-600 dark:text-gray-400">AWS, Git, Jupyter, VS Code</p>
                 </div>
                 
             
@@ -123,9 +128,10 @@ const Resume: React.FC = () => {
               </h3>
               
               <ul className="list-disc list-inside text-gray-600 dark:text-gray-400 space-y-2">
-                <li>Certificate of Excellence in technical project competition organized during Machine Learning and Artificial Intelligence Internship. </li>
-                <li>A Two-Day National workshop on LLMs and Generative AI.</li>
-                <li>Power BI Specialist</li>
+                <li>Certificate of Excellence in technical project competition organized during Machine Learning and Artificial Intelligence Internship</li>
+                <li>A Two-Day National workshop on LLMs and Generative AI</li>
+                <li>Power BI - Beginner</li>
+                <li>AWS Cloud Practitioner Essentials</li>
               </ul>
             </div>
           </div>

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Code, Database, BarChart, Brain, Server, FileSpreadsheet } from 'lucide-react';
+import { Code, Database, BarChart, Brain, Server, FileSpreadsheet, Cloud } from 'lucide-react';
 import SectionTitle from '../components/SectionTitle';
 
 interface Skill {
@@ -37,16 +37,27 @@ const skillCategories: SkillCategory[] = [
   },
   {
     id: 3,
-    title: "ML & AI",
-    icon: <Brain size={24} />,
+    title: "Cloud Platforms",
+    icon: <Cloud size={24} />,
     skills: [
-      { name: "TensorFlow", level: 60 },
-      { name: "Scikit-Learn", level: 75 },
-      { name: "Deep Learning", level: 70 },
+      { name: "AWS", level: 50 },
     ]
   },
   {
     id: 4,
+    title: "ML & AI",
+    icon: <Brain size={24} />,
+    skills: [
+      { name: "Deep Learning", level: 70 },
+      { name: "Scikit-Learn", level: 75 },
+      { name: "Tensorflow/Keras", level: 60 },
+      { name: "Pandas", level: 70 },
+      { name: "Open CV", level: 70 },
+      { name: "YOLO", level: 70 },
+    ]
+  },
+  {
+    id: 5,
     title: "Data Analysis",
     icon: <BarChart size={24} />,
     skills: [
