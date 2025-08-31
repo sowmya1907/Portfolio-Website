@@ -51,7 +51,7 @@ const Resume: React.FC = () => {
               <div className="mb-4">
                 <div className="flex justify-between mb-1">
                   <h4 className="font-semibold text-gray-800 dark:text-white">Master of Science in Data Science</h4>
-                  <span className="text-gray-600 dark:text-gray-400">2024 - Present</span>
+                  <span className="text-gray-600 dark:text-gray-400">2024 - 2026</span>
                 </div>
                 <p className="text-gray-700 dark:text-gray-300">Gitam University, Hyderabad</p>
                 <p className="text-gray-600 dark:text-gray-400 text-sm mt-1">GPA: 8.12/10</p>
@@ -105,7 +105,7 @@ const Resume: React.FC = () => {
                 
                 <div>
                   <h4 className="font-semibold text-gray-800 dark:text-white mb-2">Data Science, AI & ML</h4>
-                  <p className="text-gray-600 dark:text-gray-400">TensorFlow, Scikit-Learn, PyTorch, Pandas, NumPy, Open CV</p>
+                  <p className="text-gray-600 dark:text-gray-400">TensorFlow, Scikit-Learn, PyTorch, Pandas, NumPy, Open CV, CrewAI, LangChain</p>
                 </div>
                 
                 <div>
@@ -131,7 +131,12 @@ const Resume: React.FC = () => {
                 <li>Certificate of Excellence in technical project competition organized during Machine Learning and Artificial Intelligence Internship</li>
                 <li>A Two-Day National workshop on LLMs and Generative AI</li>
                 <li>Power BI - Beginner</li>
-                <li>AWS Cloud Practitioner Essentials</li>
+                <li>Cloud Practitioner Essentials and Data Analytics on AWS</li>
+                <li>Python for Data Science, AI and Development</li>
+                <li>Machine Learning in Production</li>
+                <li>ChatGPT Prompt Engineering for Developers</li>
+                <li>LangChain for LLM Application Development</li>
+                <li>Multi AI Agent Systems with CrewAI</li>
               </ul>
             </div>
           </div>
