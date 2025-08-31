@@ -26,7 +26,7 @@ const About: React.FC = () => {
             </h3>
             
             <p className="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
-              I'm a passionate Data Science student with 3.8 years of experience at Deloitte, I specialize in transforming complex data into actionable insights. My expertise spans Python, Artificial Intelligence, Machine Learning, and Deep Learning, allowing me to tackle challenging problems and deliver innovative solutions.
+              I'm a passionate Data Science student with 3.8 years of experience at Deloitte, specializing in supply chain management and data integration. I have worked extensively with structured, unstructured, and external data sources to develop risk-detection systems that transform complex data into actionable insights. My technical expertise spans Python, Artificial Intelligence, Machine Learning, and Deep Learning, enabling me to design and deliver innovative solutions to complex business challenges.
             </p>
             
             <p className="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
@@ -34,7 +34,7 @@ const About: React.FC = () => {
             </p>
             
             <p className="text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
-              When I'm not coding or analyzing data, you can find me participating in Kaggle competitions, contributing to open-source projects, or exploring the latest research in machine learning.
+              Outside of work and study, I actively participate in Kaggle competitions, contribute to open-source projects, and keep abreast of the latest research in machine learning.
             </p>
             
             <div className="flex justify-center md:justify-start space-x-4">
